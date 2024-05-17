@@ -24,4 +24,9 @@
 ![image](https://github.com/SandovalBrandon1027/prueba_moviles/assets/117743657/2070fdb7-990e-44f6-b4b8-dec7a85261f0)
 
 <h3>Conclusiones</h3>
-
+<h4>Hemos culminado nuestro trabajo exitosamente, cumpliendo a cabalidad con todos los requisitos necesarios para el correcto funcionamiento de la galería. Esto incluye la capacidad de tomar fotografías, eliminarlas y guardarlas según lo previsto.
+</h4>
+<h4>Dado que Ionic utiliza su propia interfaz de línea de comandos (CLI) para tareas de desarrollo y compilación, se deben incluir los comandos de Ionic CLI apropiados en las instrucciones de ejecución. Esto puede incluir comandos como ionic serve, que se utilizan para ejecutar programas en un navegador web.</h4>
+<h4>El comando ionic build es necesario para compilar la aplicación para su implementación en dispositivos móviles, así como otros comandos útiles necesarios para configurar y administrar el proyecto, incluidas las pantallas de presentación (Splash screens).</h4>
+<h4>Si tiene problemas con la pantalla de presentación (Splash screen) durante la implementación, verifique que la imagen esté en la ruta correcta y se haya exportado correctamente en Android Studio. Además, es importante asegurarse de que el formato de la imagen sea el correcto.</h4>
+<h4>Para que la implementación funcione correctamente en dispositivos móviles (Android), es muy importante configurar ciertas carpetas que ayuden a exportar los componentes necesarios para su correcto funcionamiento.</h4>
