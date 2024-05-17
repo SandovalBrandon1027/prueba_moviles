@@ -38,3 +38,7 @@
 <h4>El comando ionic build es necesario para compilar la aplicación para su implementación en dispositivos móviles, así como otros comandos útiles necesarios para configurar y administrar el proyecto, incluidas las pantallas de presentación (Splash screens).</h4>
 <h4>Si tiene problemas con la pantalla de presentación (Splash screen) durante la implementación, verifique que la imagen esté en la ruta correcta y se haya exportado correctamente en Android Studio. Además, es importante asegurarse de que el formato de la imagen sea el correcto.</h4>
 <h4>Para que la implementación funcione correctamente en dispositivos móviles (Android), es muy importante configurar ciertas carpetas que ayuden a exportar los componentes necesarios para su correcto funcionamiento.</h4>
+
+<h4> Presentación sobre nuestro manejo del apk con ionic:
+https://www.canva.com/design/DAGFeuAKcZs/L_7zB7_SB86nBID8T2Da2g/edit?utm_content=DAGFeuAKcZs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+</h4>
